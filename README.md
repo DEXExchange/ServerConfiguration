@@ -4,7 +4,7 @@ Server Configuration and In-House Exchange Coding Buildout Developments and Note
 
 Server configuration:
 
-Java8 until Java9 is stable: Ubuntu 16.04, 8 Core/12/32 Core/ 50gb to 1Tb, Http: Oddyssey-v2.0.8.1(Upgrades Stay Consistent).
+Java8 until Java9 is stable: Ubuntu 16.04, 8 Core/12/32 Core/ 50gb to 1Tb, Http: Oddyssey-vcurrentUpgrades Stay Consistent).
 Config File stays consistently updated accordingly to TRON Protocol.
 
 8 (Eight) Apple macintosh based Mac Pro's all with 7 teraflops of computing power and 12gb GDDR5 VRams, Thermal Cores, and 802.11ac wi-fi connection capabilities. 
